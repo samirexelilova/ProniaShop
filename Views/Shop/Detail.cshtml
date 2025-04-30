@@ -515,7 +515,7 @@
                                     </div>
                                     <div class="product-content">
                                         <a class="product-name"
-                                           href="single-product-variable.html">@item.Name</a>
+                                           asp-controller="shop" asp-action="detail" asp-route-id="@item.Id" >@item.Name</a>
                                         <div class="price-box pb-1">
                                             <span class="new-price">$@item.Price</span>
                                         </div>
