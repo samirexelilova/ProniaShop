@@ -1920,6 +1920,54 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yBq34vjrYG0zLwbB4EgsG\u002B2wpmfQ2Kh0bMCMb0pWgp8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"794"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yBq34vjrYG0zLwbB4EgsG\u002B2wpmfQ2Kh0bMCMb0pWgp8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 18:38:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13658"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:43:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul.w1dbdt3oxk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w1dbdt3oxk"},{"Name":"integrity","Value":"sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/Dagdagul.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13658"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:43:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA\u002Bpo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"60427"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA\u002Bpo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:10:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul1.rjf17fxknp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rjf17fxknp"},{"Name":"integrity","Value":"sha256-9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA\u002Bpo="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/Dagdagul1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60427"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA\u002Bpo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:10:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul2.5therasfnd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5therasfnd"},{"Name":"integrity","Value":"sha256-V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/Dagdagul2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54134"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:11:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54134"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:11:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul3.63q0tr8kk2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"63q0tr8kk2"},{"Name":"integrity","Value":"sha256-Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/Dagdagul3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94572"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:11:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/Dagdagul3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Dagdagul3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94572"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:11:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/dark.em96ms232s.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\dark.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1932,6 +1980,126 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2221"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 18:38:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su\u002BHUW\u002B3sc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10425"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su\u002BHUW\u002B3sc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:58:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower.mrq7x5tct3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mrq7x5tct3"},{"Name":"integrity","Value":"sha256-vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su\u002BHUW\u002B3sc="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/homeflower.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10425"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su\u002BHUW\u002B3sc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:58:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower1.ammlaqi0s5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ammlaqi0s5"},{"Name":"integrity","Value":"sha256-PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/homeflower1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30653"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30653"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower2.9js13i4au6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9js13i4au6"},{"Name":"integrity","Value":"sha256-tXGe\u002BOpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/homeflower2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29751"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tXGe\u002BOpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tXGe\u002BOpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29751"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tXGe\u002BOpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41183"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower3.sg21lixmhc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sg21lixmhc"},{"Name":"integrity","Value":"sha256-vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/homeflower3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41183"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:06:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29199"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002253COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:07:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/homeflower4.v6zr68q040.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\homeflower4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v6zr68q040"},{"Name":"integrity","Value":"sha256-53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/homeflower4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29199"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002253COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:07:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:44:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz.whcunffbdg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"whcunffbdg"},{"Name":"integrity","Value":"sha256-xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/nergiz.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:44:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz1.5gb9fb7yof.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5gb9fb7yof"},{"Name":"integrity","Value":"sha256-y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/nergiz1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"31902"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"31902"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz2.24w1nehhl7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"24w1nehhl7"},{"Name":"integrity","Value":"sha256-0hc35ZfyUusvBqpaXw\u002B75ukDAHEnM5i5Cpn\u002BhJsNl3c="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/nergiz2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43057"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220hc35ZfyUusvBqpaXw\u002B75ukDAHEnM5i5Cpn\u002BhJsNl3c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0hc35ZfyUusvBqpaXw\u002B75ukDAHEnM5i5Cpn\u002BhJsNl3c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"43057"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220hc35ZfyUusvBqpaXw\u002B75ukDAHEnM5i5Cpn\u002BhJsNl3c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz3.fpfs4yj5b1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpfs4yj5b1"},{"Name":"integrity","Value":"sha256-fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/nergiz3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45042"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45042"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pkKpENsPd05ujJqyFEo9P7cw\u002BQze7wFurjdo7Bc\u002BxuI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38846"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pkKpENsPd05ujJqyFEo9P7cw\u002BQze7wFurjdo7Bc\u002BxuI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/nergiz4.m4w8albuqa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\nergiz4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m4w8albuqa"},{"Name":"integrity","Value":"sha256-pkKpENsPd05ujJqyFEo9P7cw\u002BQze7wFurjdo7Bc\u002BxuI="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/nergiz4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38846"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pkKpENsPd05ujJqyFEo9P7cw\u002BQze7wFurjdo7Bc\u002BxuI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:09:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/quotation.e2n0llepe0.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\quotation.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1943,6 +2111,54 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xj1/M89hBmsw67ocDJK5p5/ztbUiMqv4CrWEIUPYf7Y="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"574"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xj1/M89hBmsw67ocDJK5p5/ztbUiMqv4CrWEIUPYf7Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 18:38:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose.czrwl2ed96.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"czrwl2ed96"},{"Name":"integrity","Value":"sha256-WA28wZ\u002Bmk\u002BjSDtnW2xMN1B4\u002BcN3n4FcDqqX9nuGwJh0="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/rose.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8676"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WA28wZ\u002Bmk\u002BjSDtnW2xMN1B4\u002BcN3n4FcDqqX9nuGwJh0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:44:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WA28wZ\u002Bmk\u002BjSDtnW2xMN1B4\u002BcN3n4FcDqqX9nuGwJh0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8676"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WA28wZ\u002Bmk\u002BjSDtnW2xMN1B4\u002BcN3n4FcDqqX9nuGwJh0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 05:44:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose1.facc6yjp8n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"facc6yjp8n"},{"Name":"integrity","Value":"sha256-N8fy5l\u002BNnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/rose1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"31517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N8fy5l\u002BNnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N8fy5l\u002BNnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"31517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N8fy5l\u002BNnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose2.0p02upx7bx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0p02upx7bx"},{"Name":"integrity","Value":"sha256-BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/rose2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41978"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:08:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41978"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:08:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose3.5zqv4lb54a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5zqv4lb54a"},{"Name":"integrity","Value":"sha256-r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo="},{"Name":"label","Value":"_content/ProniaShop/assets/images/website-images/rose3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41446"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:08:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/rose3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\rose3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41446"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 06:08:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProniaShop/assets/images/website-images/service.482zw7uqoy.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\service.png'))</AssetFile>

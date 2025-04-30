@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
 using ProniaShop.ViewModels;
@@ -47,8 +48,8 @@ namespace ProniaShop.Controllers
             //_context.SaveChanges();
             HomeVM homeVM = new HomeVM()
             {
-                Slides = _context.slides.OrderBy(s=>s.Order).ToList(),
-                //Slides = slides.OrderBy(s => s.Order).Take(2).ToList(),
+                Slides = _context.Slides.OrderBy(s=>s.Order).ToList(),
+                Products=_context.Products.Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null)).Take(8).ToList()
             };
 
 

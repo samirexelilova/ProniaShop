@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9ZLI4oSciiFWg2KSQ9Yw9dfPjBmSXO94knP4zp+HWus=",
+  "Hash": "jT+og5+Mkx5FE921zPn7IOqBA8S5mzKNUQ+0EwCz+mo=",
   "Source": "ProniaShop",
   "BasePath": "_content/ProniaShop",
   "Mode": "Default",
@@ -3377,6 +3377,90 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\card.png"
     },
     {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/Dagdagul#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w1dbdt3oxk",
+      "Integrity": "1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Dagdagul.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul1.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/Dagdagul1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rjf17fxknp",
+      "Integrity": "9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA+po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Dagdagul1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul2.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/Dagdagul2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5therasfnd",
+      "Integrity": "V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Dagdagul2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul3.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/Dagdagul3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "63q0tr8kk2",
+      "Integrity": "Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Dagdagul3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\dark.png",
       "SourceId": "ProniaShop",
       "SourceType": "Discovered",
@@ -3398,6 +3482,111 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
     },
     {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/homeflower#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mrq7x5tct3",
+      "Integrity": "vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su+HUW+3sc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\homeflower.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower1.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/homeflower1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ammlaqi0s5",
+      "Integrity": "PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\homeflower1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower2.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/homeflower2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9js13i4au6",
+      "Integrity": "tXGe+OpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\homeflower2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower3.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/homeflower3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sg21lixmhc",
+      "Integrity": "vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\homeflower3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower4.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/homeflower4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v6zr68q040",
+      "Integrity": "53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\homeflower4.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "SourceId": "ProniaShop",
       "SourceType": "Discovered",
@@ -3417,6 +3606,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/nergiz#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "whcunffbdg",
+      "Integrity": "xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz1.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/nergiz1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5gb9fb7yof",
+      "Integrity": "y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz2.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/nergiz2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "24w1nehhl7",
+      "Integrity": "0hc35ZfyUusvBqpaXw+75ukDAHEnM5i5Cpn+hJsNl3c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz3.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/nergiz3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpfs4yj5b1",
+      "Integrity": "fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz4.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/nergiz4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m4w8albuqa",
+      "Integrity": "pkKpENsPd05ujJqyFEo9P7cw+Qze7wFurjdo7Bc+xuI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/rose#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "czrwl2ed96",
+      "Integrity": "WA28wZ+mk+jSDtnW2xMN1B4+cN3n4FcDqqX9nuGwJh0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\rose.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose1.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/rose1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "facc6yjp8n",
+      "Integrity": "N8fy5l+NnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\rose1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose2.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/rose2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0p02upx7bx",
+      "Integrity": "BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\rose2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose3.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/rose3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5zqv4lb54a",
+      "Integrity": "r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\rose3.jpg"
     },
     {
       "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\service.png",
@@ -17570,6 +17948,334 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/Dagdagul.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:43:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul.w1dbdt3oxk.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:43:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w1dbdt3oxk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Dagdagul.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul1.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA+po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:10:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA+po="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul1.rjf17fxknp.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA+po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:10:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjf17fxknp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Dagdagul1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xftleqrV9pEPqtPeR0TYC0e7qxh3FGrHwI/GgTA+po="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul2.5therasfnd.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:11:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5therasfnd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Dagdagul2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul2.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:11:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8tg5eQ3yBn3/6GMxn5NxrVtnaAVEMRwwqhvRBODfdU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul3.63q0tr8kk2.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:11:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63q0tr8kk2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Dagdagul3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Dagdagul3.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\Dagdagul3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:11:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eo0oXDrGo29zO91wJzaqQlrnhgJq34hg0mMwuJqaPFs="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/dark.em96ms232s.png",
       "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\dark.png",
       "Selectors": [],
@@ -17652,6 +18358,416 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/homeflower.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su+HUW+3sc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su+HUW+3sc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower.mrq7x5tct3.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su+HUW+3sc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mrq7x5tct3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/homeflower.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrfe2MoqxvTe/C6/mjOPv9TsXiWqybqB7Su+HUW+3sc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower1.ammlaqi0s5.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ammlaqi0s5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/homeflower1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower1.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PojMmzDjPh3B0mWHbeX1kQPxj8tLiw3QuLqHEfnDc4Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower2.9js13i4au6.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXGe+OpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9js13i4au6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/homeflower2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXGe+OpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower2.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tXGe+OpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tXGe+OpuhnVAuQr1mfrbyvB2l5xPuWc3jJc9meV/ejM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower3.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower3.sg21lixmhc.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:06:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sg21lixmhc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/homeflower3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vA8WQmLo7EJTw1FletMltMw2PnlMUQo7X4hCE3FT/gc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower4.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:07:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/homeflower4.v6zr68q040.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:07:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v6zr68q040"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/homeflower4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-53COA83qXMNZbTvqYhJOdQetossVVTVSbZb6qNYOnOg="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/quotation.e2n0llepe0.png",
       "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "Selectors": [],
@@ -17730,6 +18846,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-xj1/M89hBmsw67ocDJK5p5/ztbUiMqv4CrWEIUPYf7Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz.whcunffbdg.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whcunffbdg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/nergiz.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF1uYxZbVZgVkZhO/yc1OPzGsuRNOH1Yn42mFanRZP0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz1.5gb9fb7yof.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5gb9fb7yof"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/nergiz1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz1.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/IRkp7JlBKQf1F9kWQ4pM/Ux0XU0r7b5o3qK7f8xxQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz2.24w1nehhl7.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0hc35ZfyUusvBqpaXw+75ukDAHEnM5i5Cpn+hJsNl3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "24w1nehhl7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/nergiz2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0hc35ZfyUusvBqpaXw+75ukDAHEnM5i5Cpn+hJsNl3c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz2.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0hc35ZfyUusvBqpaXw+75ukDAHEnM5i5Cpn+hJsNl3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0hc35ZfyUusvBqpaXw+75ukDAHEnM5i5Cpn+hJsNl3c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz3.fpfs4yj5b1.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpfs4yj5b1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/nergiz3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz3.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQWXJr1/aVOcvMSFuU4nErV8n3Wp4WlGGrq6xecLNvc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz4.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pkKpENsPd05ujJqyFEo9P7cw+Qze7wFurjdo7Bc+xuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pkKpENsPd05ujJqyFEo9P7cw+Qze7wFurjdo7Bc+xuI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/nergiz4.m4w8albuqa.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\nergiz4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pkKpENsPd05ujJqyFEo9P7cw+Qze7wFurjdo7Bc+xuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4w8albuqa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/nergiz4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pkKpENsPd05ujJqyFEo9P7cw+Qze7wFurjdo7Bc+xuI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose.czrwl2ed96.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WA28wZ+mk+jSDtnW2xMN1B4+cN3n4FcDqqX9nuGwJh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "czrwl2ed96"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/rose.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WA28wZ+mk+jSDtnW2xMN1B4+cN3n4FcDqqX9nuGwJh0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WA28wZ+mk+jSDtnW2xMN1B4+cN3n4FcDqqX9nuGwJh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 05:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WA28wZ+mk+jSDtnW2xMN1B4+cN3n4FcDqqX9nuGwJh0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose1.facc6yjp8n.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8fy5l+NnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "facc6yjp8n"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/rose1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8fy5l+NnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose1.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8fy5l+NnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8fy5l+NnrtAIgy5aYjiB4s4BseZFnkpQNTbJupKR1c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose2.0p02upx7bx.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:08:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0p02upx7bx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/rose2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose2.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:08:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCKAPFF09K9DM25XGiSxNz75ZWnhFPDxLFiW/KJpQ0M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose3.5zqv4lb54a.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:08:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5zqv4lb54a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/rose3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/rose3.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\rose3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 06:08:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r306eqEi8BGNRehneyFkaAQpRhqLQfWIonUmWb7rPVo="
         }
       ]
     },
