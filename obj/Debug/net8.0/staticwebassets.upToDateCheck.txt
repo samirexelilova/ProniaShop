@@ -309,3 +309,16 @@ wwwroot\assets\scss\_testimonial.scss
 wwwroot\assets\scss\_variables.scss
 wwwroot\assets\scss\_wishlist.scss
 wwwroot\assets\scss\style.scss
+wwwroot\assets\vendors\base\bootstrap.min.js.map
+wwwroot\assets\vendors\base\vendor.bundle.base.css
+wwwroot\assets\vendors\base\vendor.bundle.base.js
+wwwroot\assets\vendors\chart.js\Chart.min.js
+wwwroot\assets\vendors\datatables.net\jquery.dataTables.js
+wwwroot\assets\vendors\datatables.net-bs4\dataTables.bootstrap4.css
+wwwroot\assets\vendors\datatables.net-bs4\dataTables.bootstrap4.js
+wwwroot\assets\vendors\mdi\css\materialdesignicons.min.css
+wwwroot\assets\vendors\mdi\css\materialdesignicons.min.css.map
+wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.eot
+wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.ttf
+wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff
+wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff2

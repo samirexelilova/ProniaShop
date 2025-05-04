@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HlJP+hCkfnW2Du0tvn4J2KrzVowlSLkKa7YsVLuHdAQ=",
+  "Hash": "sN5e31PyiCY6dDPNwJr1rOF1BALDM1bgDB9EGSBa5y0=",
   "Source": "ProniaShop",
   "BasePath": "_content/ProniaShop",
   "Mode": "Default",
@@ -6546,6 +6546,279 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\scss\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/base/bootstrap.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cfhfmwa46",
+      "Integrity": "5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/base/vendor.bundle.base#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3w5og6hl44",
+      "Integrity": "LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/base/vendor.bundle.base#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i0mtw86ovx",
+      "Integrity": "Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/chart.js/Chart.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz54bq2ur0",
+      "Integrity": "t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/datatables.net/jquery.dataTables#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtdfc48gxy",
+      "Integrity": "xY/+APFA+s4ZnoOMLylTXMZp2imtBhK9wAF0Dj56h18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mj294vwsap",
+      "Integrity": "3irqaMm/3T7QX34ZpFv60F853CspjtSL/EcSpXh9UOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qgsazqygzx",
+      "Integrity": "ZoZHV/d85UG5sJ835i3SJtgEvRspuAUta2jb+CAYeFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/css/materialdesignicons.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ezqx2lv87u",
+      "Integrity": "2qw+LlP38IB17ErwABs/loyUV92piXj4ASkUwmEfeI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/css/materialdesignicons.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5uimphqlew",
+      "Integrity": "I3o5QwehmqnBX7EXBNqBsQkUoMHrMuN+XfJHFYrP+0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ewi0zohtx9",
+      "Integrity": "rhIjerPXF50nDujGO/gz9OJoGszLn7RxgVNRjaEu4C0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7ban2obvg",
+      "Integrity": "R1Zf0gWnNQAGVjKS/98fPV0rAqkHLDGhGhgCyjH15G8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc3zsmkh69",
+      "Integrity": "RNBlypnFim6A9VoVj3lErqcIkVWGUjkdDglrv5dYJZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vj22nwgyoc",
+      "Integrity": "lQ9v4Ghp2iytO91kvIi8ntZ0YzXOrwwPbU5/W4XwFzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     }
   ],
   "Endpoints": [
@@ -32048,6 +32321,1072 @@
         {
           "Name": "integrity",
           "Value": "sha256-B+tYbKb/NFgFWJhpCvwuXS7bScHwLOHJvZd/h+OTMN8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/bootstrap.min.js.5cfhfmwa46.map",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cfhfmwa46"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/base/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/vendor.bundle.base.3w5og6hl44.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3w5og6hl44"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/base/vendor.bundle.base.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/vendor.bundle.base.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/vendor.bundle.base.i0mtw86ovx.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0mtw86ovx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/base/vendor.bundle.base.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/base/vendor.bundle.base.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/chart.js/Chart.min.dz54bq2ur0.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz54bq2ur0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/chart.js/Chart.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/chart.js/Chart.min.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net/jquery.dataTables.xtdfc48gxy.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xY/+APFA+s4ZnoOMLylTXMZp2imtBhK9wAF0Dj56h18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtdfc48gxy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/datatables.net/jquery.dataTables.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xY/+APFA+s4ZnoOMLylTXMZp2imtBhK9wAF0Dj56h18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net/jquery.dataTables.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xY/+APFA+s4ZnoOMLylTXMZp2imtBhK9wAF0Dj56h18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xY/+APFA+s4ZnoOMLylTXMZp2imtBhK9wAF0Dj56h18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3irqaMm/3T7QX34ZpFv60F853CspjtSL/EcSpXh9UOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3irqaMm/3T7QX34ZpFv60F853CspjtSL/EcSpXh9UOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZoZHV/d85UG5sJ835i3SJtgEvRspuAUta2jb+CAYeFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZoZHV/d85UG5sJ835i3SJtgEvRspuAUta2jb+CAYeFY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.qgsazqygzx.js",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZoZHV/d85UG5sJ835i3SJtgEvRspuAUta2jb+CAYeFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qgsazqygzx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZoZHV/d85UG5sJ835i3SJtgEvRspuAUta2jb+CAYeFY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.mj294vwsap.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3irqaMm/3T7QX34ZpFv60F853CspjtSL/EcSpXh9UOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mj294vwsap"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3irqaMm/3T7QX34ZpFv60F853CspjtSL/EcSpXh9UOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/css/materialdesignicons.min.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2qw+LlP38IB17ErwABs/loyUV92piXj4ASkUwmEfeI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2qw+LlP38IB17ErwABs/loyUV92piXj4ASkUwmEfeI0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/css/materialdesignicons.min.css.5uimphqlew.map",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3o5QwehmqnBX7EXBNqBsQkUoMHrMuN+XfJHFYrP+0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5uimphqlew"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/css/materialdesignicons.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3o5QwehmqnBX7EXBNqBsQkUoMHrMuN+XfJHFYrP+0Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/css/materialdesignicons.min.css.map",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3o5QwehmqnBX7EXBNqBsQkUoMHrMuN+XfJHFYrP+0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3o5QwehmqnBX7EXBNqBsQkUoMHrMuN+XfJHFYrP+0Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/css/materialdesignicons.min.ezqx2lv87u.css",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2qw+LlP38IB17ErwABs/loyUV92piXj4ASkUwmEfeI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezqx2lv87u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/css/materialdesignicons.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2qw+LlP38IB17ErwABs/loyUV92piXj4ASkUwmEfeI0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhIjerPXF50nDujGO/gz9OJoGszLn7RxgVNRjaEu4C0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhIjerPXF50nDujGO/gz9OJoGszLn7RxgVNRjaEu4C0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.ewi0zohtx9.eot",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhIjerPXF50nDujGO/gz9OJoGszLn7RxgVNRjaEu4C0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewi0zohtx9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/fonts/materialdesignicons-webfont.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhIjerPXF50nDujGO/gz9OJoGszLn7RxgVNRjaEu4C0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.r7ban2obvg.ttf",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R1Zf0gWnNQAGVjKS/98fPV0rAqkHLDGhGhgCyjH15G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7ban2obvg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R1Zf0gWnNQAGVjKS/98fPV0rAqkHLDGhGhgCyjH15G8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.sc3zsmkh69.woff",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNBlypnFim6A9VoVj3lErqcIkVWGUjkdDglrv5dYJZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc3zsmkh69"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNBlypnFim6A9VoVj3lErqcIkVWGUjkdDglrv5dYJZc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R1Zf0gWnNQAGVjKS/98fPV0rAqkHLDGhGhgCyjH15G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R1Zf0gWnNQAGVjKS/98fPV0rAqkHLDGhGhgCyjH15G8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.vj22nwgyoc.woff2",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQ9v4Ghp2iytO91kvIi8ntZ0YzXOrwwPbU5/W4XwFzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vj22nwgyoc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lQ9v4Ghp2iytO91kvIi8ntZ0YzXOrwwPbU5/W4XwFzE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNBlypnFim6A9VoVj3lErqcIkVWGUjkdDglrv5dYJZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNBlypnFim6A9VoVj3lErqcIkVWGUjkdDglrv5dYJZc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQ9v4Ghp2iytO91kvIi8ntZ0YzXOrwwPbU5/W4XwFzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 04:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lQ9v4Ghp2iytO91kvIi8ntZ0YzXOrwwPbU5/W4XwFzE="
         }
       ]
     }

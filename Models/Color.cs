@@ -1,0 +1,11 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ProniaShop.Models
+{
+    public class Color:BaseEntity
+    {
+        [MinLength(2)]
+        [MaxLength(25, ErrorMessage = "Uzunluq 25 i kece bilmez")]
+        public string Name { get; set; }
+    }
+}

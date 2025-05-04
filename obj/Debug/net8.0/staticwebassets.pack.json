@@ -1245,6 +1245,58 @@
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProniaShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
