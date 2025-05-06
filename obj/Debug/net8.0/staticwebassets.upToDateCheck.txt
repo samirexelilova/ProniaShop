@@ -245,6 +245,7 @@ wwwroot\assets\images\website-images\Dagdagul1.jpg
 wwwroot\assets\images\website-images\Dagdagul2.jpg
 wwwroot\assets\images\website-images\Dagdagul3.jpg
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\flower.jpg
 wwwroot\assets\images\website-images\homeflower.jpg
 wwwroot\assets\images\website-images\homeflower1.jpg
 wwwroot\assets\images\website-images\homeflower2.jpg

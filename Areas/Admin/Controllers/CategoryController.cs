@@ -16,10 +16,14 @@ namespace ProniaShop.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            List<Category> categories = await _context.Categories.Include(c => c.Products).AsNoTracking().ToListAsync();
+            List<Category> categories = await _context.Categories.Where(c=>c.IsDelete==false).Include(c => c.Products).AsNoTracking().ToListAsync();
             return View(categories);
         }
-
+        public async Task<IActionResult> Arxiv()
+        {
+            List<Category> categories = await _context.Categories.Where(c => c.IsDelete == true).Include(c => c.Products).AsNoTracking().ToListAsync();
+            return View(categories);
+        }
         public IActionResult Create()
         {
             return View();
@@ -72,6 +76,25 @@ namespace ProniaShop.Areas.Admin.Controllers
             existed.Name = category.Name;
              await _context.SaveChangesAsync();
 
+            return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+            Category? category= await _context.Categories.FirstOrDefaultAsync(c=>c.Id==id);
+            if (category is null) return NotFound();
+
+            if (category.IsDelete)
+            {
+                category.IsDelete = false;
+            }
+            else
+            {
+                category.IsDelete = true;
+            }
+            //_context.Categories.Remove(category);
+
+            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
     }

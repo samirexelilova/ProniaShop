@@ -3,8 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
 
-namespace ProniaShop.Controllers
+namespace ProniaShop.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class SizeController : Controller
     {
         public readonly AppDbContext _context;
@@ -14,7 +15,7 @@ namespace ProniaShop.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            List<Size> sizes =await _context.Sizes.ToListAsync();
+            List<Size> sizes = await _context.Sizes.ToListAsync();
             return View(sizes);
         }
 
@@ -30,7 +31,7 @@ namespace ProniaShop.Controllers
                 return View();
             }
 
-            bool result = await _context.Sizes.AnyAsync(s=>s.Name==size.Name);
+            bool result = await _context.Sizes.AnyAsync(s => s.Name == size.Name);
             if (result)
             {
                 ModelState.AddModelError(nameof(Size.Name), $"{size.Name} -bu size artiq movcuddur");
@@ -45,17 +46,17 @@ namespace ProniaShop.Controllers
 
         public IActionResult Update(int? id)
         {
-            if (id is null || id<=0)
+            if (id is null || id <= 0)
             {
                 return BadRequest();
             }
-            Size? size=_context.Sizes.FirstOrDefault(s=>s.Id==id);
+            Size? size = _context.Sizes.FirstOrDefault(s => s.Id == id);
 
             if (size is null) return NotFound();
             return View(size);
         }
         [HttpPost]
-        public async Task<IActionResult> Update(int? id,Size size)
+        public async Task<IActionResult> Update(int? id, Size size)
         {
             if (!ModelState.IsValid)
             {
@@ -68,7 +69,7 @@ namespace ProniaShop.Controllers
                 return View();
             }
 
-            Size? existed= await _context.Sizes.FirstOrDefaultAsync(s=>s.Id==id);
+            Size? existed = await _context.Sizes.FirstOrDefaultAsync(s => s.Id == id);
             if (existed.Name == size.Name) return RedirectToAction(nameof(Index));
             existed.Name = size.Name;
             await _context.SaveChangesAsync();

@@ -3,8 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
 
-namespace ProniaShop.Controllers
+namespace ProniaShop.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class ColorController : Controller
     {
         public readonly AppDbContext _context;

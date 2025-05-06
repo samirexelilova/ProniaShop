@@ -989,6 +989,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
     },
     {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flower.jpg"
+    },
+    {
       "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\homeflower.jpg"
     },

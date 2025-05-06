@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sN5e31PyiCY6dDPNwJr1rOF1BALDM1bgDB9EGSBa5y0=",
+  "Hash": "HL06uKJloIhpGEjZ7f6An8xixleglqV835wuKIR9iMk=",
   "Source": "ProniaShop",
   "BasePath": "_content/ProniaShop",
   "Mode": "Default",
@@ -5202,6 +5202,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "SourceId": "ProniaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\",
+      "BasePath": "_content/ProniaShop",
+      "RelativePath": "assets/images/website-images/flower#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8sjv74ot49",
+      "Integrity": "6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\flower.jpg"
     },
     {
       "Identity": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",
@@ -27073,6 +27094,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/flower.8sjv74ot49.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 06:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8sjv74ot49"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/flower.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/flower.jpg",
+      "AssetFile": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 06:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME="
         }
       ]
     },

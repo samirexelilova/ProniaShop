@@ -1,16 +1,14 @@
-﻿
-@model List<Category>
+﻿@model List<Slide>
 
 @{
     int count = 0;
 }
-<div class="row"> 
+<div class="row">
     <div class="col-lg-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Categories Table</h4>
                 <a class="btn btn-success" asp-action="create">Create</a>
-                <a class="btn btn-success" asp-action="arxiv">Arxiv</a>
                 <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
@@ -19,13 +17,13 @@
                                     No
                                 </th>
                                 <th>
-                                    Name
+                                    Image
                                 </th>
                                 <th>
-                                    Products Count
+                                    Title
                                 </th>
                                 <th>
-                                    Date
+                                    Order
                                 </th>
                                 <th>
                                     Settings
@@ -33,7 +31,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (Category item in Model)
+                            @foreach (Slide item in Model)
                             {
                                 count++;
                                 <tr>
@@ -41,10 +39,13 @@
                                         @count
                                     </td>
                                     <td>
-                                        @item.Name
+                                       <img src="~/assets/images/website-images/@item.Image">
                                     </td>
                                     <td>
-                                        @item.Products.Count
+                                        @item.Title
+                                    </td>
+                                    <td>
+                                        @item.Order
                                     </td>
                                     <td>
                                         @item.CreatedAt.ToString("d MMMM yyy HH:mm")
@@ -52,12 +53,12 @@
                                     <td>
                                         <a asp-action="update" asp-route-id="@item.Id" class="btn btn-warning"><i class="mdi mdi-pen"></i></a>
                                         <a asp-action="delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="mdi mdi-delete"></i> </a>
-                                        <a class="btn btn-primary" href="#"><i class="mdi mdi-open-in-new"></i></a>
+                                        <a asp-action="detail" asp-route-id="@item.Id"  class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
                                     </td>
                                 </tr>
                             }
-                         
-                          
+
+
                         </tbody>
                     </table>
                 </div>
