@@ -769,6 +769,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\0e67fe18-eaf9-426d-a207-15b56807e3f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\0e67fe18-eaf9-426d-a207-15b56807e3f7.jpg"
+    },
+    {
       "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1--1rnu4p.png"
     },
@@ -991,10 +995,6 @@
     {
       "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\faf6f3d5-ea5c-4248-ad19-367ccb053d47.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\faf6f3d5-ea5c-4248-ad19-367ccb053d47.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\flower.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flower.jpg"
     },
     {
       "Id": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\wwwroot\\assets\\images\\website-images\\homeflower.jpg",

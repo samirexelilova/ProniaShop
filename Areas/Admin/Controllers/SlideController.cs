@@ -71,7 +71,7 @@ namespace ProniaShop.Areas.Admin.Controllers
             }
 
 
-            string fileName = await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "iamges", "website-images");
+            string fileName = await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "images", "website-images");
 
             Slide slide = new Slide()
             {
@@ -105,5 +105,58 @@ namespace ProniaShop.Areas.Admin.Controllers
 
 
         }
+
+
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+            Slide? slide = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (slide is null) return NotFound();
+            UpdateSlideVM updateSlideVM = new UpdateSlideVM
+            {
+                Title=slide.Title,
+                Description=slide.Description,
+                SubTitle=slide.SubTitle,
+                Order=slide.Order,
+                Image=slide.Image,
+            };
+            return View(updateSlideVM);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id,UpdateSlideVM slideVM)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(slideVM);
+            }
+            Slide? existed = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (existed is null) return NotFound();
+            if (slideVM.Photo is not null)
+            {
+                if (!slideVM.Photo.ValidateType("image/"))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "Sekil type duzgun deyil");
+                    return View(slideVM);
+                }
+                if (!slideVM.Photo.ValidateSize(FileSize.MB,1))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "Sekil 1 mb dan boyuk ola bilmez");
+                    return View(slideVM);
+                }
+               string fileName= await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image = fileName;
+            }
+            existed.Title= slideVM.Title;
+            existed.SubTitle= slideVM.SubTitle;
+            existed.Description= slideVM.Description;
+            existed.Order= slideVM.Order;
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+
     }
 }

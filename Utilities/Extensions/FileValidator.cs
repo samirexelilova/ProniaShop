@@ -28,8 +28,8 @@ namespace ProniaShop.Utilities.Extensions
         public static async Task<string> CreateFileAsync(this IFormFile file,params string[] roots)
         {
             string fileName = string.Concat(Guid.NewGuid().ToString(), file.FileName.Substring(file.FileName.LastIndexOf('.')));
-            string path=GetPath(roots);
-            path=Path.Combine(file.FileName);
+            string path = GetPath(roots);
+            path = Path.Combine(path, fileName);
             using (FileStream fileStream = new(path, FileMode.Create))
             {
                 await file.CopyToAsync(fileStream);
