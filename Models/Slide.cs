@@ -18,8 +18,7 @@ namespace ProniaShop.Models
 
         [Range(1, int.MaxValue, ErrorMessage = "Order minimum 1 olmalidir")]
         public int Order { get; set; }
-        [NotMapped]
-        public IFormFile Photo { get; set; }
+        
 
     }
 }

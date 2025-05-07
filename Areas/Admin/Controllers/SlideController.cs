@@ -2,6 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
+using ProniaShop.Utilities.Enums;
+using ProniaShop.Utilities.Extensions;
+using ProniaShop.ViewModels;
 
 namespace ProniaShop.Areas.Admin.Controllers
 {
@@ -11,63 +14,95 @@ namespace ProniaShop.Areas.Admin.Controllers
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _env;
 
-        public SlideController(AppDbContext context,IWebHostEnvironment env)
+        public SlideController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
-            _env= env;
+            _env = env;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index( )
         {
-            List<Slide> slides = await _context.Slides.OrderBy(s=>s.Order).ToListAsync();
-            return View(slides);
+            List<GetSlideVM> slideVMs = await _context.Slides.OrderBy(s=>s.Order).Select(s=>
+            new GetSlideVM
+            {
+                Id=s.Id,
+                Title=s.Title,
+                Image=s.Image,
+                Order=s.Order,
+                CreatedAt=s.CreatedAt,
+            }
+
+            ).ToListAsync();
+            return View(slideVMs);
         }
         public IActionResult Create()
         {
-            return View();  
+            return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Create(Slide slide)
+        public async Task<IActionResult> Create(CreateSlideVM slideVM)
         {
             //if (!ModelState.IsValid)
             //{
             //    return View();
             //}
 
-            bool title = await _context.Slides.AnyAsync(s => s.Title == slide.Title);
+            bool title = await _context.Slides.AnyAsync(s => s.Title == slideVM.Title);
             if (title)
             {
-                ModelState.AddModelError(nameof(Slide.Title), $"{slide.Title} Bu title artiq movcuddur");
+                ModelState.AddModelError(nameof(CreateSlideVM.Title), $"{slideVM.Title} Bu title artiq movcuddur");
                 return View();
             }
-            bool order = await _context.Slides.AnyAsync(s => s.Order == slide.Order);
+            bool order = await _context.Slides.AnyAsync(s => s.Order == slideVM.Order);
             if (order)
             {
-                ModelState.AddModelError(nameof(Slide.Order), $"{slide.Order} Bu order artiq movcuddur");
+                ModelState.AddModelError(nameof(CreateSlideVM.Order), $"{slideVM.Order} Bu order artiq movcuddur");
                 return View();
             }
 
-            if (!slide.Photo.ContentType.Contains("image/"))
+            if (!slideVM.Photo.ValidateType("image/"))
             {
-                ModelState.AddModelError(nameof(Slide.Photo), " Bu File Type duzgun deyil");
+                ModelState.AddModelError(nameof(CreateSlideVM.Photo), " Bu File Type duzgun deyil");
                 return View();
             }
-            if (slide.Photo.Length>1*1024*1024)
+            if (!slideVM.Photo.ValidateSize(FileSize.MB, 1))
             {
-                ModelState.AddModelError(nameof(Slide.Photo), " File size 2 mb dan boyuk ola bilmez ");
+                ModelState.AddModelError(nameof(CreateSlideVM.Photo), " File size 2 mb dan boyuk ola bilmez ");
                 return View();
             }
 
-            string fileName = string.Concat(Guid.NewGuid().ToString(), Path.GetExtension(slide.Photo.FileName));
-            string path = Path.Combine(_env.WebRootPath,"assets", "images", "website-images", fileName);
-            FileStream fileStream = new(path,FileMode.Create);
-            await slide.Photo.CopyToAsync(fileStream);
 
-            slide.Image = fileName;
-            slide.CreatedAt = DateTime.Now;
+            string fileName = await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "iamges", "website-images");
+
+            Slide slide = new Slide()
+            {
+                Title = slideVM.Title,
+                SubTitle = slideVM.SubTitle,
+                Description = slideVM.Description,
+                Order = slideVM.Order,
+                Image=fileName,
+                CreatedAt = DateTime.Now
+            };
+
             await _context.Slides.AddAsync(slide);
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
+
+        }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+            Slide? slide = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (id is null) return NotFound();
+
+            slide.Image.DeleteFile(_env.WebRootPath,"assets", "iamges", "website-images");
+            _context.Remove(slide);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+
+
+
 
         }
     }
