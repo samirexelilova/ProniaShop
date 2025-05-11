@@ -29,6 +29,11 @@ namespace ProniaShop.Utilities.Extensions
         {
             string fileName = string.Concat(Guid.NewGuid().ToString(), file.FileName.Substring(file.FileName.LastIndexOf('.')));
             string path = GetPath(roots);
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+
             path = Path.Combine(path, fileName);
             using (FileStream fileStream = new(path, FileMode.Create))
             {

@@ -19,7 +19,7 @@ namespace ProniaShop.Areas.Admin.Controllers
             _context = context;
             _env = env;
         }
-        public async Task<IActionResult> Index( )
+        public async Task<IActionResult> Index()
         {
             List<GetSlideVM> slideVMs = await _context.Slides.OrderBy(s=>s.Order).Select(s=>
             new GetSlideVM
@@ -32,6 +32,7 @@ namespace ProniaShop.Areas.Admin.Controllers
             }
 
             ).ToListAsync();
+            TempData["Message"] = "Ugurla yarandi mehsul";
             return View(slideVMs);
         }
         public IActionResult Create()
@@ -56,6 +57,11 @@ namespace ProniaShop.Areas.Admin.Controllers
             if (order)
             {
                 ModelState.AddModelError(nameof(CreateSlideVM.Order), $"{slideVM.Order} Bu order artiq movcuddur");
+                return View();
+            }
+            if (slideVM.Photo == null)
+            {
+                ModelState.AddModelError(nameof(CreateSlideVM.Photo), "Zəhmət olmasa şəkil seçin.");
                 return View();
             }
 
@@ -101,12 +107,7 @@ namespace ProniaShop.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
 
-
-
-
         }
-
-
 
         public async Task<IActionResult> Update(int? id)
         {
