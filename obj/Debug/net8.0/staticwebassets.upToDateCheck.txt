@@ -243,12 +243,12 @@ wwwroot\assets\images\website-images\96a4013b-c9b4-416a-9eb4-62c6508bc25d.jpg
 wwwroot\assets\images\website-images\agac.jpg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
-wwwroot\assets\images\website-images\Dagdagul.jpg
 wwwroot\assets\images\website-images\Dagdagul1.jpg
 wwwroot\assets\images\website-images\Dagdagul2.jpg
 wwwroot\assets\images\website-images\Dagdagul3.jpg
 wwwroot\assets\images\website-images\dark.png
 wwwroot\assets\images\website-images\faf6f3d5-ea5c-4248-ad19-367ccb053d47.jpg
+wwwroot\assets\images\website-images\flower.jpg
 wwwroot\assets\images\website-images\homeflower.jpg
 wwwroot\assets\images\website-images\homeflower1.jpg
 wwwroot\assets\images\website-images\homeflower2.jpg

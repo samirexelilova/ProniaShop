@@ -19847,88 +19847,6 @@
       ]
     },
     {
-      "Route": "assets/images/website-images/Dagdagul.jpg",
-      "AssetFile": "assets/images/website-images/Dagdagul.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13658"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 05:43:51 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/website-images/Dagdagul.w1dbdt3oxk.jpg",
-      "AssetFile": "assets/images/website-images/Dagdagul.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13658"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 05:43:51 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w1dbdt3oxk"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1AfOiYlQIa9fsxsVLJ8aZPTUTvVbOBlpKLQTdop8mbQ="
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/website-images/Dagdagul.jpg"
-        }
-      ]
-    },
-    {
       "Route": "assets/images/website-images/Dagdagul1.jpg",
       "AssetFile": "assets/images/website-images/Dagdagul1.jpg",
       "Selectors": [],
@@ -20575,6 +20493,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 06 May 2025 07:11:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/flower.8sjv74ot49.jpg",
+      "AssetFile": "assets/images/website-images/flower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 19:00:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8sjv74ot49"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/flower.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/flower.jpg",
+      "AssetFile": "assets/images/website-images/flower.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CyT4+GyOdA3Gg48LJphjR4m7EQ0aaobAkWAOPfKbME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 19:00:45 GMT"
         }
       ],
       "EndpointProperties": [
