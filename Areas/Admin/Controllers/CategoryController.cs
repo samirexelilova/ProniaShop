@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
@@ -6,6 +7,8 @@ using ProniaShop.Models;
 namespace ProniaShop.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
+
     public class CategoryController : Controller
     {
         private readonly AppDbContext _context;

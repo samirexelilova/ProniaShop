@@ -14,10 +14,10 @@ namespace ProniaShop.ViewModels
         [MaxLength(256)]
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
-        [MaxLength(50)]
+        [MinLength(8)]
         [DataType(DataType.Password)]
         public string Password { get; set; }
-        [MaxLength(50)]
+        [MinLength(8)]
         [DataType(DataType.Password)]
         [Compare(nameof(Password))]
         public string ConfirmPassword { get; set; }

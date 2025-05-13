@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProniaShop.DAL;
 using ProniaShop.Models;
@@ -9,7 +10,7 @@ using ProniaShop.ViewModels;
 namespace ProniaShop.Areas.Admin.Controllers
 {
     [Area("Admin")]
-
+    [Authorize(Roles ="Admin")]
     public class ProductController : Controller
     {
         public readonly AppDbContext _context;
@@ -37,6 +38,7 @@ namespace ProniaShop.Areas.Admin.Controllers
             ).ToListAsync();
             return View(productVMs);
         }
+        [Authorize(Roles ="Moderator")]
         public async Task<IActionResult> Create()
         {
             CreateProductVM createProductVM = new CreateProductVM
@@ -99,6 +101,7 @@ namespace ProniaShop.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Moderator")]
         public async Task<IActionResult> Update(int? id)
         {
             if (id is null || id <= 0) return BadRequest();

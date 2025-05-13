@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\viewmodels\\users\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:viewmodels\\users\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\utilities\\extensions\\normalizeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:utilities\\extensions\\normalizeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\viewmodels\\users\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:viewmodels\\users\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|c:\\users\\rinat_pc\\source\\repos\\proniashop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6D2CC11-9751-472D-B8AF-7C719DDDB4D7}|ProniaShop.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,54 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NormalizeInput.cs",
-              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Utilities\\Extensions\\NormalizeInput.cs",
-              "RelativeDocumentMoniker": "Utilities\\Extensions\\NormalizeInput.cs",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Utilities\\Extensions\\NormalizeInput.cs",
-              "RelativeToolTip": "Utilities\\Extensions\\NormalizeInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:19:52.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T21:25:18.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:48:16.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "Utilities\\Extensions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\ViewModels\\Users\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Users\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\ViewModels\\Users\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\Users\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:19:29.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\ViewModels\\Users\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Users\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\ViewModels\\Users\\RegisterVM.cs",
-              "RelativeToolTip": "ViewModels\\Users\\RegisterVM.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:04:33.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T19:58:24.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T19:20:03.787Z"
             },
             {
               "$type": "Document",
@@ -105,36 +90,48 @@
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:57:58.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:18:10.041Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T19:58:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:13:45.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Rinat_PC\\source\\repos\\ProniaShop\\Models\\AppUser.cs",
-              "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:53:01.282Z"
             }
           ]
         }
